@@ -1,6 +1,8 @@
 # SalesProjectMvc
 A project to represent a salesperson's sales in ASP.NET Core MVC.
 
+Contact: ia.nicolau@outlook.com
+
 ### Preview:
 
 ![1](https://user-images.githubusercontent.com/71159276/96800864-bd9f5200-13dc-11eb-8a64-8d1eee486cfc.PNG)
